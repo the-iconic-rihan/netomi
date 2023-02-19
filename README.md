@@ -1,4 +1,4 @@
-#Netomi 
+# Netomi 
 # visit us on : https://netomi-task.netlify.app/
 
 To clone and run the project in your pc 
